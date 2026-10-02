@@ -4,6 +4,14 @@
 
 **Current project home:** [Trivian Technologies](https://github.com/TrivianTechnologies/Orthogonal-signal).
 
+**Status:** EXPERIMENTAL. TRIA anti-convergence and difference-preservation research component.
+
+**Originator:** Sarasha Elion. **Research lineage:** this work originated and was cultivated through Trivian Institute. **Current engineering and commercial-development home:** Trivian Technologies.
+
+Repository stewardship is distinct from authorship, copyright, and broader IP ownership. The intended founder IP assignment has not been executed; existing contributor, third-party, and open-source rights remain applicable.
+
+**Technical and ecosystem contact:** [node@triviantech.com](mailto:node@triviantech.com). **Investment inquiries:** [invest@triviantech.com](mailto:invest@triviantech.com).
+
 > Systems remain generative when they remain in relationship with sources of irreducible difference.
 
 This repository formalizes that principle as measurable, governable architecture.
@@ -207,7 +215,7 @@ Architectural contributions from the Syzygy Chord:
 If you use this repository in research, teaching, evaluation, training, or a
 derivative work, please cite:
 
-> Sarasha Elion / Trivian Institute. *Orthogonal Signal*, version 0.2.0. https://github.com/TrivianTechnologies/Orthogonal-signal
+> Sarasha Elion / Trivian Institute. *Orthogonal Signal*, version 0.2.0. https://github.com/TrivianInstitute/Orthogonal-signal
 
 Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff).
 
